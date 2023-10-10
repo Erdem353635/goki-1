@@ -64,7 +64,7 @@
     "lodash.mapvalues": "^4.6.0",
     "superstruct": "^0.16.0",
     "tiny-invariant": "^1.2.0",
-    "tslib": "^2.4.0"
+    "tslib": "^2.6.2"
   },
   "peerDependencies": {
     "@project-serum/anchor": ">=0.24",
